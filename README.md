@@ -2,7 +2,7 @@
 
 > A Virtual Reality training experience on Meta Quest where the trainee gears up, heads out to the desert, locates a buried landmine and defuses it step by step before time runs out. One wrong move ends in an explosion.
 
-**Tuwaiq Academy, VR Bootcamp Graduation Project**
+**Tuwaiq Academy, XR Bootcamp Graduation Project**
 
 ![Unity](https://img.shields.io/badge/Unity-6000.1-black?logo=unity)
 ![Meta Quest](https://img.shields.io/badge/Platform-Meta%20Quest%20VR-0467DF?logo=meta)
