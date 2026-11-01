@@ -1,6 +1,8 @@
-# Landmine — VR Landmine Defusal Training
+# Silent Field — VR Landmine Awareness Training
 
-> A Virtual Reality training experience on Meta Quest where the trainee gears up, heads out to the desert, locates a buried landmine and defuses it step by step before time runs out. One wrong move ends in an explosion.
+> A Virtual Reality training experience on Meta Quest where the trainee gears up, heads out to the desert, locates a buried landmine and defuses it step by step before time runs out. Risk-free practice for a high-risk task. One wrong move ends in an explosion.
+
+🌐 **Portfolio:** [leena-alqahtani.netlify.app](https://leena-alqahtani.netlify.app)
 
 **Tuwaiq Academy, XR Bootcamp Graduation Project**
 
